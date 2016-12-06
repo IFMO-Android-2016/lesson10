@@ -6,7 +6,7 @@
 * Местоположение
 * Support Library
 * Support Annotation
-* Support UI 
+* Support UI
 * MultiDex
 
-Презентация: [PPTX](https://github.com/IFMO-Android-2016/lesson10/blob/master/lesson10.pptx)
+Презентация: [PPTX](lesson10.pptx), [PDF](lesson10.pdf)
